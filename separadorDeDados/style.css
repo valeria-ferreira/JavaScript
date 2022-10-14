@@ -1,0 +1,42 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80em;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.container{
+    margin: 20px 50px 20px 50px;
+    padding-bottom: 10%;
+    background-color: #FFF;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.receptor{
+    margin-top: 130px;
+    margin-bottom: 10px;
+}
+
+label{
+    margin-left: 2%;
+}
+
+/*Botões*/
+.styleButton{
+    background-color: #272727;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.resultados{
+    margin: 5% 0% 5% 0%;
+}
+
+
+
